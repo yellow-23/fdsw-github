@@ -37,3 +37,18 @@ body {
   }
 
 }
+
+
+
+.btn-outline-skin{
+  border-color: #FAD7A0;
+  color: #FAD7A0;
+  background-color: transparent;
+}
+
+
+.btn-skin{
+  background-color: #FAD7A0;
+  color: #fff;
+  border-color: #FAD7A0;
+}
